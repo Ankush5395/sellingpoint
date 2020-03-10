@@ -4,7 +4,6 @@ ul.nav li.dropdown:hover ul.dropdown-menu{ display: block; }
 .navbar-inverse {
     /* Based on the Jira request SPD-190 */
     background: black; 
-   
 }
 
 .login-tab {     
