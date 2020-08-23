@@ -2,8 +2,8 @@
 ul.nav li.dropdown:hover ul.dropdown-menu{ display: block; }
 
 .navbar-inverse {
-    /* Jira request SPD-190 */
-    background: red; 
+    /* Jira request SPD-201 */
+    background: black; 
 }
 
 .login-tab {     
